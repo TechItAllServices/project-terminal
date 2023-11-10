@@ -18,6 +18,8 @@ Intuitive Commands: The terminal includes a set of intuitive and easy-to-use com
 Compatibility: Project Terminal is designed to be compatible with common Python applications and scripts, providing a seamless integration into your Python workflow.
 
 
+----------------------------------------------------
+
 Info Genreated by chatGPT. If icon is a ✔️info is correct. If icon below is ⚠️info is not checked and might be wring. If icon is ❗ info is incorrect!
 
 Status: ✔️
