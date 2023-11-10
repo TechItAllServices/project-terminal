@@ -20,6 +20,6 @@ Compatibility: Project Terminal is designed to be compatible with common Python 
 
 ----------------------------------------------------
 
-Info Genreated by chatGPT. If icon is a ✔️info is correct. If icon below is ⚠️info is not checked and might be wring. If icon is ❗ info is incorrect!
+Info Genreated by chatGPT. If icon is a ✔️info is correct. If icon below is ⚠️info is not checked and might be wrong. If icon is ❗ info is incorrect!
 
 Status: ✔️
