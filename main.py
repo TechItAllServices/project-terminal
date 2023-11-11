@@ -70,6 +70,13 @@ def main():
 {CurrentLoggedTVPasswords.TVPassword20}
 """)
                     print("--------------------")
+                if maindatabase == "2":
+                    print("--------------------")
+                    print(f"""IDENTS""")
+                    print("--------------------")
+                    print("""Parker: 85jf8v435u34985nbwui23904
+Parker_Old_PC: 08ojgf098id09f9
+Parker_Laptop: 08ojgf098id3224""")
             else:
                 print("Invalid command. Please try again.")
 
