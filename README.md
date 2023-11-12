@@ -1,5 +1,5 @@
 # project-terminal
-Project Terminal
+Project Terminal - **FINISHED!!! 🥳**
 
 ## Overview
 
